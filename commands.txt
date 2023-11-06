@@ -1,0 +1,5 @@
+/home/tom/src/gh/grafbase/grafbase/cli/target/debug/grafbase subgraphs tomhoule/grafbase-deploy-test@main
+/home/tom/src/gh/grafbase/grafbase/cli/target/debug/grafbase schema tomhoule/grafbase-deploy-test@main
+/home/tom/src/gh/grafbase/grafbase/cli/target/debug/grafbase schema tomhoule/grafbase-deploy-test@main --name ktl
+
+/home/tom/src/gh/grafbase/grafbase/cli/target/debug/grafbase publish tomhoule/grafbase-deploy-test@main --schema ../../grafbase/grafbase/examples/kotlin/grafbase/schema.graphql --name ktl --url https://bad.horse
